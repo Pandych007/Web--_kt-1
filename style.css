@@ -1,0 +1,39 @@
+ /* body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.avatar-container {
+    margin-top: 20px;
+}
+
+#avatar {
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    border-radius: 50%;
+} 
+ */
+
+/* Стилизация карточки контакта */
+.contact-card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 200px;
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    border-radius: 50%;
+  }
+  
